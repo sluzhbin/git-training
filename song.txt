@@ -13,7 +13,6 @@ Confound their politics,
 Frustrate their knavish tricks,
 On Thee our hopes we fix:
 God save us all.
-<<<<<<< HEAD
 
 Thy choicest gifts in store,
 On her be pleased to pour;
@@ -22,5 +21,5 @@ May she defend our laws,
 And ever give us cause
 To sing with heart and voice
 God save the Queen!
-=======
->>>>>>> 3d461ba... Update song.txt
+
+-------------------------
